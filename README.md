@@ -1,2 +1,2 @@
 # RepositorioHenry
-Esto es un repositorio del modulo2 del prep course Henry
+Esto es un repositorio del modulo2 del curso prep de Henry
